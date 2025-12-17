@@ -1,1 +1,3 @@
+Hola, esta es la práctica de Git
 Cambio en rama1
+Cambio en rama2
